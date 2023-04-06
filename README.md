@@ -1,5 +1,6 @@
 # AI Code Doctor
-Let AI be your code doctor, helping you quickly resolve code defects, explaining complex code segments, and even refactoring your code.
+
+Let AI be your coding doctor, fixing code issues, explaining complex parts, and even restructuring code.
 
 ![AI Code Doctor](./public/screenshot.png)
 
